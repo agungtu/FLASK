@@ -1,0 +1,44 @@
+body {
+    background: #fafafa;
+    color: #333333;
+    padding-top: 80px; 
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    color: #444444;
+  }
+  
+  .article-title {
+    color: #000000;
+  }
+  /* NBA Themed Navbar */
+  .navbar {
+    background-color: #1d428a; 
+    height: 80px; /* Set a fixed height for your navbar */
+  }
+  
+  .navbar .container {
+    display: flex;
+    justify-content: space-between; 
+    height: 100%;
+  }
+  
+  .navbar-brand {
+    display: flex;
+    align-items: center;
+    color: #ffffff;
+  }
+  
+  
+  .nav-link {
+    color: #ffffff; 
+  }
+  
+  .nav-link:hover,
+  .nav-link:focus,
+  .nav-link.active {
+    color: #C8102E; 
+  }
+  
+  
+  
